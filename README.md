@@ -1,6 +1,6 @@
 ### Hey! I'm Tertuliano Moreno, AKA tertub2 👋
 
-- 🌱 I’m currently not working  
+- 💼 I’m currently not working  
 - 🌱 I’m currently learning Python 
 - ⚡ Fun fact: I love fantsy books 🐲⚔️🏰
 - 😀 Pronoun: He/Him
