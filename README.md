@@ -2,22 +2,30 @@
 
 📊 I am currently an BI Analyst Maceió, AL area, performing analyses in more than 6000 products and businesses allocated in the areas of the healthcare, wage/labor, occupational safety, professional education, etc. industries.
 
+
+
 👀 Outside of work I enjoy
 
 🥋 Martial Arts: I am a lover of martial arts, especially BJJ, which I am blue belt 🔵 
+
 🍞 Eating: I enjoy eating tons of kinds of food and how each culture uses its ingredients 
+
 📚 Reading: Give me your best self development recommendations please! (Especially fantasy ones 🐉)
+
 
  
 
 🌱 I’m currently learning
 
 🙇🏻‍♀️ The fundamental concepts of Machine Learning, as I am still fairly new to the field!
+
 🔧 More advanced uses of Python, R, Power BI, Tableau and SQL
+
 
  
 
 📫 How to reach me
+
 
 ⛓ https://www.linkedin.com/in/tertulianomoreno/
 
