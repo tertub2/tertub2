@@ -16,7 +16,7 @@
 🌱 I’m currently learning
 
 🙇🏻‍♀️ The fundamental concepts of Machine Learning, as I am still fairly new to the field!                                       
-🔧 More advanced uses of Python, R, Power BI, Tableau and SQL
+🔧 More advanced uses of Python, Power BI, Tableau and SQL
 
 
  
