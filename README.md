@@ -4,7 +4,7 @@
 
 
 
-👀 Outside of work I enjoy
+👀 **Outside of work I enjoy**
 
 🥋 Martial Arts: I am a lover of martial arts, especially BJJ, which I am blue belt 🔵                            
 🍞 Eating: I enjoy eating tons of kinds of food and how each culture uses its ingredients                                        
@@ -13,7 +13,7 @@
 
  
 
-🌱 I’m currently learning
+🌱 **I’m currently learning**
 
 🙇🏻‍♀️ The fundamental concepts of Machine Learning, as I am still fairly new to the field!                                       
 🔧 More advanced uses of Python, Power BI, Tableau and SQL
@@ -21,7 +21,7 @@
 
  
 
-📫 How to reach me
+📫 **How to reach me**
 
 
 ⛓ https://www.linkedin.com/in/tertulianomoreno/
