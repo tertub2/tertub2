@@ -1,6 +1,6 @@
 ### Hey! I'm Tertuliano Moreno, AKA tertub2 👋
 
-📊 I am currently an BI Analyst Maceió, AL area, performing analyses in more than 6000 products and businesses allocated in the areas of the healthcare, wage/labor, occupational safety, professional education, etc. industries.
+📊 I am currently an Data Analyst/Engineer, performing analyses in more than 6000 products and businesses allocated in the areas of the healthcare, wage/labor, occupational safety, professional education, etc. industries.
 
 
 
@@ -16,7 +16,7 @@
 🌱 **I’m currently learning**
 
 🙇🏻‍♀️ The fundamental concepts of Machine Learning, as I am still fairly new to the field!                                       
-🔧 More advanced uses of Python, Power BI, Tableau and SQL
+🔧 More advanced uses of Azure and AWS
 
 
  
